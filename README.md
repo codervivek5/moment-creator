@@ -3,7 +3,7 @@
 **Turn any song into a shareable, animated lyric experience.**  
 Create a "moment" by syncing audio with its lyrics, select your favorite lines, and share a unique, interactive player with friends.
 
----
+----------
 
 ## 📌 About The Project
 
